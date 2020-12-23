@@ -4,7 +4,9 @@
         "towerType": "TENSION TOWER",
         "coordinate": "3.247657, 101.631741",
         "data": {
-            "gsw_opgw": null,
+            "gsw_opgw": {
+                "s": {"item":"Others","issue":"Rust"}
+            },
             "top": {
                 "s": {"item":"Arching Horn","issue":"Rust"},
                 "m": {"item":"Arching Horn","issue":"Missing"}
