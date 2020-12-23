@@ -1,0 +1,172 @@
+[
+    {
+        "towerName": "KULE-KULN 19",
+        "towerType": "TENSION TOWER",
+        "coordinate": "3.247657, 101.631741",
+        "data": {
+            "gsw_opgw": null,
+            "top": {
+                "s": {"item":"Arching Horn","issue":"Rust"},
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "middle": {
+                "s": {"item":"Arching Horn","issue":"Rust"},
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "bottom": {
+                "s": {"item":"Arching Horn","issue":"Rust"},
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "structure": null
+        }
+    },
+    {
+        "towerName": "KULE-KULN 20 (L)",
+        "towerType": "SUSPENSION TOWER",
+        "coordinate": "3.252565, 101.634675",
+        "data": {
+            "gsw_opgw": null,
+            "top": null,
+            "middle": null,
+            "bottom": null,
+            "structure": {
+                "s": {"item":"Tower Information Plate","issue":"Missing"}
+            }
+        }
+    },
+    {
+        "towerName": "KULE-KULN 20 (R)",
+        "towerType": "SUSPENSION TOWER",
+        "coordinate": "3.252565, 101.634675",
+        "data": {
+            "gsw_opgw": {
+                "s": {"item":"Others","issue":"Broken"}
+            },
+            "top": {
+                "s": {"item":"Arching Horn","issue":"Rust"}
+            },
+            "middle": {
+                "ps": {"item":"Fitting Insulator","issue":"Crack"}
+            },
+            "bottom": null,
+            "structure": {
+                "s": {"item":"Tower Information Plate","issue":"Missing"}
+            }
+        }
+    },
+    {
+        "towerName": "KULE-KULN 21 (L)",
+        "towerType": "SUSPENSION TOWER",
+        "coordinate": "3.254743, 101.635999",
+        "data": {
+            "gsw_opgw": null,
+            "top": null,
+            "middle": null,
+            "bottom": null,
+            "structure": {
+                "s": {"item":"Tower Information Plate","issue":"Missing"}
+            }
+        }
+    },
+    {
+        "towerName": "KULE-KULN 21 (R)",
+        "towerType": "SUSPENSION TOWER",
+        "coordinate": "3.254743, 101.635999",
+        "data": {
+            "gsw_opgw": null,
+            "top": null,
+            "middle": null,
+            "bottom": null,
+            "structure": {
+                "s": {"item":"Tower Information Plate","issue":"Missing"}
+            }
+        }
+    },
+    {
+        "towerName": "KULE-KULN 26 (L)",
+        "towerType": "TENSION TOWER",
+        "coordinate": "3.25474, 101.646846",
+        "data": {
+            "gsw_opgw": null,
+            "top": {
+                "s": {"item":"Arching Horn","issue":"Rust"},
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "middle": {
+                "s": {"item":"Arching Horn","issue":"Rust"},
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "bottom": {
+                "s": {"item":"Arching Horn","issue":"Rust"},
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "structure": {
+                "s": {"item":"Tower Information Plate","issue":"Missing"}
+            }
+        }
+    },
+    {
+        "towerName": "KULE-KULN 26 (R)",
+        "towerType": "TENSION TOWER",
+        "coordinate": "3.25474, 101.646846",
+        "data": {
+            "gsw_opgw": null,
+            "top": {
+                "s": {"item":"Arching Horn","issue":"Rust"},
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "middle": {
+                "s": {"item":"Arching Horn","issue":"Rust"},
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "bottom": {
+                "s": {"item":"Arching Horn","issue":"Rust"},
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "structure": {
+                "s": {"item":"Tower Information Plate","issue":"Missing"}
+            }
+        }
+    },
+    {
+        "towerName": "KULE-KULN 27 (L)",
+        "towerType": "TENSION TOWER",
+        "coordinate": "3.254336, 101.649007",
+        "data": {
+            "gsw_opgw": null,
+            "top": {
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "middle": {
+                "s": {"item":"Arching Horn","issue":"Rust"},
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "bottom": {
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "structure": {
+                "s": {"item":"Tower Information Plate","issue":"Missing"}
+            }
+        }
+    },
+    {
+        "towerName": "KULE-KULN 27 (R)",
+        "towerType": "TENSION TOWER",
+        "coordinate": "3.254336, 101.649007",
+        "data": {
+            "gsw_opgw": null,
+            "top": {
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "middle": {
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "bottom": {
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "structure": {
+                "s": {"item":"Tower Information Plate","issue":"Missing"}
+            }
+        }
+    }
+]
