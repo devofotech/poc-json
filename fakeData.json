@@ -168,5 +168,25 @@
                 "s": {"item":"Tower Information Plate","issue":"Missing"}
             }
         }
+    },
+    {
+        "towerName": "KULE-KULN 27 (R)",
+        "towerType": "TENSION TOWER",
+        "coordinate": "3.254336, 101.649007",
+        "data": {
+            "gsw_opgw": null,
+            "top": {
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "middle": {
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "bottom": {
+                "m": {"item":"Arching Horn","issue":"Missing"}
+            },
+            "structure": {
+                "s": {"item":"Tower Information Plate","issue":"Missing"}
+            }
+        }
     }
 ]
